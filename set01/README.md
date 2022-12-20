@@ -258,7 +258,7 @@ void output(int n, Complex c[n], Complex result);
  ```
 Enter the number of arrays: 3
 2 3
-4 5
+4 5 
 6 7
 ```
 ***Output***
